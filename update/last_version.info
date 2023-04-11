@@ -1,11 +1,8 @@
-﻿2.3.5.845
+﻿2.3.4.836
 Добавлено/Исправлено:
-Added: 64-bit version
-Fixed: issue #12
-Fixed: issue #13
-Fixed: issue #15
-Added: issue #4
-Reworked: issue #19
-Fixed: Displaying an empty author's record.
-Fixed: Wrong "double-click behavior in Series List."
-Updated: FB2 genres list
+* Чтение файлов с длинными заголовками
+* Отправка на устройство длинных заголовков
+* Обработка удаленных > 1
+* Выбор нескольких книг при запуске программы
++ FastMM 5
++ Native Delphi zip engine
