@@ -1,6 +1,11 @@
-﻿2.3.4.832
+﻿2.3.5.845
 Добавлено/Исправлено:
-* Reading files with long titles
-* Processing of Deleted > 1
-+ FastMM 4
-+ Native Delphi zip engine
+Added: 64-bit version
+Fixed: issue #12
+Fixed: issue #13
+Fixed: issue #15
+Added: issue #4
+Reworked: issue #19
+Fixed: Displaying an empty author's record.
+Fixed: Wrong "double-click behavior in Series List."
+Updated: FB2 genres list
